@@ -29,10 +29,8 @@
 </p>
 
 ---
-
 ### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dranzershone&show_icons=true&theme=tokyonight" alt="Dranzershone's Github Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dranzershone&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dranzershone&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dranzershone&layout=compact&theme=tokyonight)
