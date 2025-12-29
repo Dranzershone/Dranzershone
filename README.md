@@ -32,7 +32,7 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realshone10&show_icons=true&theme=tokyonight" alt="Shone's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dranzershone&show_icons=true&theme=tokyonight" alt="Dranzershone's Github Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realshone10&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dranzershone&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
