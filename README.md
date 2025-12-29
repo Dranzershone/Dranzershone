@@ -7,7 +7,7 @@
 - ⚡ Fun fact: **I'm bad at committing(to GitHub ofc)**
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shone-kuncheria-4b7064307/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shone-kuncheria-4b7064307/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/realshone10/)
 
 ### Languages and Tools:
