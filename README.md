@@ -8,7 +8,7 @@
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shone-kuncheria-4b7064307/)
-[![LeetCode](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=leetcode)](https://leetcode.com/u/realshone10/)
+[![LeetCode](https://img.shields.io/badge/Leetcode?logo=leetcode)](https://leetcode.com/u/realshone10/)
 
 ### Languages and Tools:
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
